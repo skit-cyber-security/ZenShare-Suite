@@ -13,7 +13,7 @@ An attacker can exploit this issue by crafting a malicious URL and tricking a vi
 
 # PoC / Attack Example
 
-Within the application there are 6 vulnerable parameters for reading/uploading sensitive files:
+Within the application there are 2 parameters vulnerable to Cross-Site Scripting (XSS)
 * [CVE-XXXX-XXXXX]
 * [CVE-XXXX-XXXXX]
 
