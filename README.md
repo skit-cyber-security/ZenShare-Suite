@@ -3,7 +3,7 @@ The ZenShare Suite application is vulnerable by a Reflected Cross-Site Scripting
 An attacker can exploit this issue by crafting a malicious URL and tricking a victim into visiting it, leading to the execution of arbitrary JavaScript code in the victim’s browser in the context of the affected application.
 
 # CVE ID
-**CVE-XXXX-XXXXX - CVE-XXXX-XXXXX**
+**CVE-2026-30251 - CVE-2026-30252**
 
 # Details
 * **Vulnerability Type**: Reflected Cross-Site Scripting (XSS)
@@ -14,8 +14,8 @@ An attacker can exploit this issue by crafting a malicious URL and tricking a vi
 # PoC / Attack Example
 
 Within the application there are 2 parameters vulnerable to Cross-Site Scripting (XSS)
-* [CVE-XXXX-XXXXX]
-* [CVE-XXXX-XXXXX]
+* [CVE-2026-30252]
+* [CVE-2026-30251]
 
 
 # References
