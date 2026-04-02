@@ -2,7 +2,7 @@
 The ZenShare Suite application is vulnerable by a Reflected Cross-Site Scripting (XSS) vulnerability, affecting web application login and recovery password functionalities.
 An attacker can exploit this issue by crafting a malicious URL and tricking a victim into visiting it, leading to the execution of arbitrary JavaScript code in the victim’s browser in the context of the affected application.
 
-# CVE ID
+# CVE IDs
 **CVE-2026-30251 - CVE-2026-30252**
 
 # Details
