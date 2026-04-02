@@ -8,7 +8,7 @@ The ZenShare Suite application is vulnerable to Reflected Cross-Site Scripting (
 
 ---
 
-## [CVE-2026-30251] - Password Recovery XSS
+## [CVE-2026-30251]
 
 ### Description
 A reflected cross-site scripting (XSS) vulnerability in the **login_newpwd.php** endpoint of Interzen Consulting S.r.l ZenShare Suite v17.0 allows attackers to execute arbitrary Javascript in the context of the user's browser via a crafted URL injected into the **codice_azienda** parameter.
@@ -22,7 +22,7 @@ A reflected cross-site scripting (XSS) vulnerability in the **login_newpwd.php**
 
 ---
 
-## [CVE-2026-30252] - Login Functionality XSS
+## [CVE-2026-30252]
 
 ### Description
 Multiple reflected cross-site scripting (XSS) vulnerabilities in the **login.php** endpoint of Interzen Consulting S.r.l ZenShare Suite v17.0 allows attackers to execute arbitrary Javascript in the context of the user's browser via a crafted URL injected into the **codice_azienda** and **red_url** parameters.
