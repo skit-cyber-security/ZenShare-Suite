@@ -45,7 +45,4 @@ Multiple reflected cross-site scripting (XSS) vulnerabilities in the **login.php
 * **CVE-2026-30251:** Manuel Scala, Federico Mirra, Francesco Berti
 * **CVE-2026-30252:** Manuel Scala, Federico Mirra
 
-
-# Credits
-**Manuel Scala**, **Federico Mirra**, **Francesco Berti** <br></br>
 <a href="https://sk-it.com/"><img src="img/skit_logo.png" width="300">
